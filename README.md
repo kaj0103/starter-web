@@ -24,4 +24,4 @@ Please fork this repo then issue pull request for review
 
 ### Copyright
 
-git training
+git training - adding some stashing stuff
