@@ -16,6 +16,7 @@ Some information on how to do some deployment
 
 ## How To Contribute
 
+Please fork this repo then issue pull request for review
 
 ### Copyright
 
