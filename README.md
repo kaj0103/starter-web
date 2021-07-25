@@ -15,3 +15,8 @@ Adding purpose text
 Some information on how to do some deployment
 
 ## How To Contribute
+
+
+### Copyright
+
+git training
