@@ -2,6 +2,8 @@
 
 This is a simple website
 
+Adding a line here for rebasing example
+
 ## Introduction
 
 This will show different parts of the git repository and various commands
